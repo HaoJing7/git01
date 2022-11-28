@@ -7,6 +7,6 @@ public class Hello {
         System.out.println("Hello git3!!!");
         System.out.println("git 4!!!");
         System.out.println("how to use it");
-        System.out.println("hot-fix 4!!!");
+        System.out.println("push test!!!");
     }
 }
